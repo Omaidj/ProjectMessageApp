@@ -1,0 +1,18 @@
+omaid: Hello
+bob: hello
+omaid: how are you?
+bob: im good, how are you?
+omaid: im really good, thank you for asking
+omaid: hello
+omaid: how are you
+bob: i am good, how are you doing??
+omaid: im doing good thanks
+omaid: how is your lesson today??
+bob: its pretty boring
+omaid: yoo bob
+bob: yooo how is it going
+omaid: im doing good, bye
+omaid: okay bye
+bob: what are you doing this weekend
+omaid: im busy this weekend
+omaid: hello
